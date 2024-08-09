@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bead\\ToDoSlayer\\ToDoSlayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79BABF37-DBC0-EDBF-8A4A-EEA588DDCB73}|Assembly-CSharp.csproj|d:\\bead\\todoslayer\\todoslayer\\assets\\scripts\\newtaskcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BABF37-DBC0-EDBF-8A4A-EEA588DDCB73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newtaskcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BABF37-DBC0-EDBF-8A4A-EEA588DDCB73}|Assembly-CSharp.csproj|d:\\bead\\todoslayer\\todoslayer\\assets\\scripts\\readinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BABF37-DBC0-EDBF-8A4A-EEA588DDCB73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\readinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BABF37-DBC0-EDBF-8A4A-EEA588DDCB73}|Assembly-CSharp.csproj|D:\\bead\\ToDoSlayer\\ToDoSlayer\\assets\\scripts\\addtaskscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BABF37-DBC0-EDBF-8A4A-EEA588DDCB73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\addtaskscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BABF37-DBC0-EDBF-8A4A-EEA588DDCB73}|Assembly-CSharp.csproj|D:\\bead\\ToDoSlayer\\ToDoSlayer\\assets\\scripts\\mainscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BABF37-DBC0-EDBF-8A4A-EEA588DDCB73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BABF37-DBC0-EDBF-8A4A-EEA588DDCB73}|Assembly-CSharp.csproj|D:\\bead\\ToDoSlayer\\ToDoSlayer\\assets\\scripts\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BABF37-DBC0-EDBF-8A4A-EEA588DDCB73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "newTaskCreate.cs",
+              "DocumentMoniker": "D:\\bead\\ToDoSlayer\\ToDoSlayer\\Assets\\Scripts\\newTaskCreate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\newTaskCreate.cs",
+              "ToolTip": "D:\\bead\\ToDoSlayer\\ToDoSlayer\\Assets\\Scripts\\newTaskCreate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\newTaskCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:28:12.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "readInput.cs",
+              "DocumentMoniker": "D:\\bead\\ToDoSlayer\\ToDoSlayer\\Assets\\Scripts\\readInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\readInput.cs",
+              "ToolTip": "D:\\bead\\ToDoSlayer\\ToDoSlayer\\Assets\\Scripts\\readInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\readInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:23:01.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mainSceneManager.cs",
+              "DocumentMoniker": "D:\\bead\\ToDoSlayer\\ToDoSlayer\\Assets\\Scripts\\mainSceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\mainSceneManager.cs",
+              "ToolTip": "D:\\bead\\ToDoSlayer\\ToDoSlayer\\Assets\\Scripts\\mainSceneManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\mainSceneManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:40:47.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "addTaskSceneManager.cs",
+              "DocumentMoniker": "D:\\bead\\ToDoSlayer\\ToDoSlayer\\Assets\\Scripts\\addTaskSceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\addTaskSceneManager.cs",
+              "ToolTip": "D:\\bead\\ToDoSlayer\\ToDoSlayer\\Assets\\Scripts\\addTaskSceneManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\addTaskSceneManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:35:12.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sceneManager.cs",
+              "DocumentMoniker": "D:\\bead\\ToDoSlayer\\ToDoSlayer\\Assets\\Scripts\\sceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\sceneManager.cs",
+              "ToolTip": "D:\\bead\\ToDoSlayer\\ToDoSlayer\\Assets\\Scripts\\sceneManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\sceneManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:31:26.286Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
